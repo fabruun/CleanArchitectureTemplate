@@ -1,6 +1,4 @@
-﻿using Microsoft.VisualBasic.CompilerServices;
-
-namespace CleanArchitecture.Domain.Common.Models;
+﻿namespace CleanArchitecture.Domain.Common.Models;
 
 public abstract class Entity<TEntityId>
     where TEntityId : notnull

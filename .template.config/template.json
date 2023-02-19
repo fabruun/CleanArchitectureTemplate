@@ -1,0 +1,28 @@
+﻿{
+  "author": "Frederik Haugaard Bruun",
+  "name": "Clean Architecture Application Template",
+  "description": "A project for creating a modern and well structure applications and systems, fitting a clean architecture style that can run on .NET on Windows, Linux and macOS.",
+  "identity": "YourName",
+  "shortName": "cleanarch",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "CleanArchitecture",
+  "symbols": {
+    "Framework": {
+      "type": "parameter",
+      "description": "The target framework for the project.",
+      "datatype": "choice",
+      "choices": [
+        {
+          "choice": "netcoreapp6.0"
+        },
+        {
+          "choice": "netcoreapp7.0"
+        }
+      ],
+      "defaultValue": "netcoreapp7.0"
+    }
+  }
+}

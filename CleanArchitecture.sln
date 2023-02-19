@@ -1,15 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# 
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitectureTemplate.Api", "CleanArchitectureTemplate.Api\CleanArchitectureTemplate.Api.csproj", "{CA994DC8-7E72-4ED8-8B11-5E26DCAC539D}"
+#
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitecture.Api", "CleanArchitecture.Api\CleanArchitecture.Api.csproj", "{CA994DC8-7E72-4ED8-8B11-5E26DCAC539D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitectureTemplate.Application", "CleanArchitectureTemplate.Application\CleanArchitectureTemplate.Application.csproj", "{EFDDAF4B-EC01-4EA7-8490-66DE21195805}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitecture.Application", "CleanArchitecture.Application\CleanArchitecture.Application.csproj", "{EFDDAF4B-EC01-4EA7-8490-66DE21195805}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitectureTemplate.Contracts", "CleanArchitectureTemplate.Contracts\CleanArchitectureTemplate.Contracts.csproj", "{C35D411B-6705-4FEB-8CBB-EE8839458340}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitecture.Contracts", "CleanArchitecture.Contracts\CleanArchitecture.Contracts.csproj", "{C35D411B-6705-4FEB-8CBB-EE8839458340}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitectureTemplate.Domain", "CleanArchitectureTemplate.Domain\CleanArchitectureTemplate.Domain.csproj", "{88766B40-BEA9-46F2-B29D-B65E970744F7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitecture.Domain", "CleanArchitecture.Domain\CleanArchitecture.Domain.csproj", "{88766B40-BEA9-46F2-B29D-B65E970744F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitectureTemplate.Infrastructure", "CleanArchitectureTemplate.Infrastructure\CleanArchitectureTemplate.Infrastructure.csproj", "{BD868BAC-7A9A-4146-9986-F6213EE8BF4B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitecture.Infrastructure", "CleanArchitecture.Infrastructure\CleanArchitecture.Infrastructure.csproj", "{BD868BAC-7A9A-4146-9986-F6213EE8BF4B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CleanArchitectureTemplate.Contracts\CleanArchitectureTemplate.Contracts.csproj" />
+    <ProjectReference Include="..\CleanArchitectureTemplate.Application\CleanArchitectureTemplate.Application.csproj" />
+    <ProjectReference Include="..\CleanArchitectureTemplate.Infrastructure\CleanArchitectureTemplate.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Controllers" />
+  </ItemGroup>
+
+</Project>
